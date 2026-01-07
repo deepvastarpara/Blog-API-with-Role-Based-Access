@@ -1,0 +1,15 @@
+{
+  "name": "blog-api-with-role-based-access",
+  "version": "1.0.0",
+  "description": "this learning phase project",
+  "keywords": [
+    "blog"
+  ],
+  "license": "ISC",
+  "author": "deep vastarpara",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
